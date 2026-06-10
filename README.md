@@ -1,6 +1,6 @@
 # model-vision
 
-> 配合 [cc-switch](https://github.com/nicepkg/cc-switch) 使用的 Claude Code 图片处理技能。通过本地代理自动拦截图片请求，分流到视觉模型分析，再将文字结果注入主模型推理。
+> 配合 [cc-switch](https://github.com/nicepkg/cc-switch) 使用的 非Claude Code模型 图片处理技能。通过本地代理自动拦截图片请求，分流到视觉模型分析，再将文字结果注入主模型推理。
 
 ## 工作原理
 
