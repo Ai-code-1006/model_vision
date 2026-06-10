@@ -1,0 +1,64 @@
+[2026-06-10T12:52:33.057Z] model_image: mimo-v2.5
+[2026-06-10T12:52:33.061Z] model_text:  mimo-v2.5-pro
+[2026-06-10T12:52:33.061Z] listen_port: 15722
+[2026-06-10T12:52:33.062Z] cc_switch:   15721
+[2026-06-10T12:52:33.062Z] max_tokens:  2048
+[2026-06-10T12:52:33.082Z] model-router listening on http://127.0.0.1:15722
+[2026-06-10T12:52:33.083Z] text path: Claude -> router -> cc-switch(15721) -> mimo-v2.5-pro
+[2026-06-10T12:52:33.084Z] image path: Claude -> router -> mimo-v2.5 analyze -> cc-switch(15721) -> mimo-v2.5-pro
+[2026-06-10T12:52:36.814Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:52:37.177Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:52:48.073Z] repaired Claude settings: ANTHROPIC_BASE_URL=http://127.0.0.1:15722
+[2026-06-10T12:53:10.877Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:53:13.689Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:53:17.678Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:53:20.530Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:53:47.509Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:53:49.536Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:53:52.655Z] image request detected: 1 image(s) -> mimo-v2.5 analyze -> mimo-v2.5-pro answer
+[2026-06-10T12:53:52.655Z] context-aware prompt: 2000 chars from user messages
+[2026-06-10T12:53:58.508Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:54:06.254Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:54:12.998Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:54:18.786Z] image 1 analyzed successfully
+[2026-06-10T12:54:25.951Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:54:26.201Z] image request detected: 1 image(s) -> mimo-v2.5 analyze -> mimo-v2.5-pro answer
+[2026-06-10T12:54:26.201Z] context-aware prompt: 2000 chars from user messages
+[2026-06-10T12:54:32.132Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:54:35.960Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:54:40.496Z] image 1 analyzed successfully
+[2026-06-10T12:55:19.562Z] image request detected: 2 image(s) -> mimo-v2.5 analyze -> mimo-v2.5-pro answer
+[2026-06-10T12:55:19.563Z] context-aware prompt: 170 chars from user messages
+[2026-06-10T12:55:26.858Z] image 1 analyzed successfully
+[2026-06-10T12:55:38.687Z] image 2 analyzed successfully
+[2026-06-10T12:55:45.232Z] image request detected: 2 image(s) -> mimo-v2.5 analyze -> mimo-v2.5-pro answer
+[2026-06-10T12:55:45.233Z] context-aware prompt: 170 chars from user messages
+[2026-06-10T12:56:00.416Z] image 1 analyzed successfully
+[2026-06-10T12:56:20.269Z] image 2 analyzed successfully
+[2026-06-10T12:58:12.431Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:58:20.506Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:58:34.903Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:58:45.405Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:58:49.066Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:58:52.652Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:59:02.046Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:59:06.118Z] text request -> mimo-v2.5-pro
+[2026-06-10T12:59:10.264Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:00:32.667Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:01:05.675Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:01:31.990Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:01:34.501Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:01:41.628Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:01:52.704Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:01:56.090Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:02:02.454Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:02:13.045Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:02:17.166Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:02:23.127Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:02:25.890Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:02:29.877Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:03:56.491Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:04:00.060Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:04:04.435Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:04:17.743Z] text request -> mimo-v2.5-pro
+[2026-06-10T13:04:19.573Z] text request -> mimo-v2.5-pro

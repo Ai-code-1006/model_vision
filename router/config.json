@@ -1,0 +1,8 @@
+{
+  "listen_port": 15722,
+  "cc_switch_port": 15721,
+  "model_text": "mimo-v2.5-pro",
+  "model_image": "mimo-v2.5",
+  "image_max_tokens": 2048,
+  "image_analysis_prompt": "请详细描述这张图片的全部可见内容，优先提取文字、界面结构、关键对象、颜色、布局、状态、异常提示以及和用户问题相关的信息。"
+}
